@@ -35,7 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Meditations and vowes, diuine and morall. Seruing for direction in Christian and ciuill practise. De
+
+1. Votum Authoris.
+
 **Types of content**
 
   * There are 6 **verse** lines!
